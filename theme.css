@@ -1,0 +1,23 @@
+/* NEON ECLIPSE - ThemeHack */
+
+body {
+    background: #080d1b !important;
+    color: #e5edff !important;
+    font-family: Arial, sans-serif !important;
+}
+
+h1, h2, h3 {
+    color: #00d9ff !important;
+}
+
+button, input[type="submit"] {
+    background: linear-gradient(135deg, #0066ff, #8a2be2) !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 12px 20px !important;
+}
+
+a {
+    color: #00d9ff !important;
+}
